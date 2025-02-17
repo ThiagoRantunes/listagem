@@ -1,0 +1,17 @@
+/* PRÉ DEFINIÇÃO DA ESTILIZAÇÃO */
+
+*{
+    margin: none;
+    padding: none;
+}
+
+/* VARIAVEIS DE COR */
+
+:root{
+    --primeira: #130912;
+    --segunda: #3e1c33;
+    --terceira: #602749;
+    --quarta: #b14623;
+    --quinta: #f6921d;   
+}
+
